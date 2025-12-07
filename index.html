@@ -39,7 +39,6 @@
   </div>
 
   <script>
-    const RELEASE_BASE = 'https://github.com/FoocoJun/demo-free-3d-assets/releases/download/v1.0.0';
     let catalog = [];
     let activeCategory = 'all';
 
@@ -77,8 +76,8 @@
             <div class="card-title" title="${m.name}">${m.name}</div>
             <div class="card-meta">${m.category} · ${m.size.glb}${m.files.fbx ? ' · FBX' : ''}</div>
             <div class="card-actions">
-              <a href="${RELEASE_BASE}/${m.files.glb}" class="btn btn-primary" download>GLB</a>
-              ${m.files.fbx ? `<a href="${RELEASE_BASE}/${m.files.fbx}" class="btn btn-secondary" download>FBX</a>` : ''}
+              <a href="./${m.files.glb}" class="btn btn-primary" download>GLB</a>
+              ${m.files.fbx ? `<a href="./${m.files.fbx}" class="btn btn-secondary" download>FBX</a>` : ''}
             </div>
           </div>
         </div>
