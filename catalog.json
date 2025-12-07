@@ -1116,5 +1116,18 @@
       "glb": "1.7 MB",
       "fbx": null
     }
+  },
+  {
+    "id": "test-model-debug",
+    "name": "Test Model",
+    "category": "props",
+    "files": {
+      "glb": "test-model-debug.glb",
+      "fbx": null
+    },
+    "size": {
+      "glb": "1.9 MB",
+      "fbx": null
+    }
   }
 ]
