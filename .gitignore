@@ -1,0 +1,3 @@
+# Binary files go to GitHub Releases, not the repo
+*.glb
+*.fbx
