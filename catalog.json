@@ -4,7 +4,7 @@
     "name": "Indian Head Ten-Dollars Coin",
     "category": "coins",
     "files": {
-      "glb": "indian-head-ten-dollars-coin.glb",
+      "glb": "coins/indian-head-ten-dollars-coin.glb",
       "fbx": null
     },
     "size": {
@@ -17,7 +17,7 @@
     "name": "Trash Ammo",
     "category": "ammo",
     "files": {
-      "glb": "trash-ammo.glb",
+      "glb": "ammo/trash-ammo.glb",
       "fbx": null
     },
     "size": {
@@ -30,7 +30,7 @@
     "name": "M67 Plastic Hand Grenades",
     "category": "ammo",
     "files": {
-      "glb": "m67plastichandgrenades.glb",
+      "glb": "ammo/m67plastichandgrenades.glb",
       "fbx": null
     },
     "size": {
@@ -43,7 +43,7 @@
     "name": "Skull Head",
     "category": "small-assets",
     "files": {
-      "glb": "skullhead.glb",
+      "glb": "small-assets/skullhead.glb",
       "fbx": null
     },
     "size": {
@@ -56,7 +56,7 @@
     "name": "Plastic Grenades",
     "category": "ammo",
     "files": {
-      "glb": "plasticgrenades.glb",
+      "glb": "ammo/plasticgrenades.glb",
       "fbx": null
     },
     "size": {
@@ -69,7 +69,7 @@
     "name": "Red Heart",
     "category": "small-assets",
     "files": {
-      "glb": "redheart.glb",
+      "glb": "small-assets/redheart.glb",
       "fbx": null
     },
     "size": {
@@ -82,7 +82,7 @@
     "name": "Skull for Halloween",
     "category": "small-assets",
     "files": {
-      "glb": "skullforhalloween.glb",
+      "glb": "small-assets/skullforhalloween.glb",
       "fbx": null
     },
     "size": {
@@ -95,7 +95,7 @@
     "name": "Skull, Human Head",
     "category": "small-assets",
     "files": {
-      "glb": "skullhumanhead.glb",
+      "glb": "small-assets/skullhumanhead.glb",
       "fbx": null
     },
     "size": {
@@ -108,7 +108,7 @@
     "name": "Skull Collectible Figurines",
     "category": "small-assets",
     "files": {
-      "glb": "skullcollectiblefigurines.glb",
+      "glb": "small-assets/skullcollectiblefigurines.glb",
       "fbx": null
     },
     "size": {
@@ -121,7 +121,7 @@
     "name": "Plastic Cartoon Black Round Army Bomb",
     "category": "ammo",
     "files": {
-      "glb": "plasticcartoonblackroundarmybomb.glb",
+      "glb": "ammo/plasticcartoonblackroundarmybomb.glb",
       "fbx": null
     },
     "size": {
@@ -134,7 +134,7 @@
     "name": "Vivere Challenge Coin",
     "category": "coins",
     "files": {
-      "glb": "viverechallengecoin.glb",
+      "glb": "coins/viverechallengecoin.glb",
       "fbx": null
     },
     "size": {
@@ -147,7 +147,7 @@
     "name": "Airsoft Grenade Toy Plastic CS Hand Grenade Model Tactical Gear Accessories for Army Fans Cosplay Pr",
     "category": "ammo",
     "files": {
-      "glb": "airsoft-grenade-toy-plastic-cs-hand-grenade-model-.glb",
+      "glb": "ammo/airsoft-grenade-toy-plastic-cs-hand-grenade-model-.glb",
       "fbx": null
     },
     "size": {
@@ -160,7 +160,7 @@
     "name": "Bitcoin Coin",
     "category": "coins",
     "files": {
-      "glb": "bitcoincoin.glb",
+      "glb": "coins/bitcoincoin.glb",
       "fbx": null
     },
     "size": {
@@ -173,7 +173,7 @@
     "name": "Walking Liberty Half Dollar",
     "category": "coins",
     "files": {
-      "glb": "walkinglibertyhalfdollar.glb",
+      "glb": "coins/walkinglibertyhalfdollar.glb",
       "fbx": null
     },
     "size": {
@@ -186,7 +186,7 @@
     "name": "Good Luck Eagle Four-Leaf Clover Lucky Coin Lottery Ticket Scratcher Tool Lucky Charm Gift for Women",
     "category": "coins",
     "files": {
-      "glb": "good-luck-eagle-four-leaf-clover-lucky-coin-lotter.glb",
+      "glb": "coins/good-luck-eagle-four-leaf-clover-lucky-coin-lotter.glb",
       "fbx": null
     },
     "size": {
@@ -199,7 +199,7 @@
     "name": "Inspirational Christian Challenge Coin - The Lord is My Rock - Zinc Alloy, 1.57 Inch Diameter, Psalm",
     "category": "coins",
     "files": {
-      "glb": "inspirational-christian-challenge-coin---the-lord-.glb",
+      "glb": "coins/inspirational-christian-challenge-coin---the-lord-.glb",
       "fbx": null
     },
     "size": {
@@ -212,7 +212,7 @@
     "name": "The Archangel Michael Watches Over Us Challenge Coin - Psalm 91:10-11 Inspirational Religious Collec",
     "category": "coins",
     "files": {
-      "glb": "the-archangel-michael-watches-over-us-challenge-co.glb",
+      "glb": "coins/the-archangel-michael-watches-over-us-challenge-co.glb",
       "fbx": null
     },
     "size": {
@@ -225,7 +225,7 @@
     "name": "American Eagle Copper Round - 1 oz 0.999% Fine Copper Coin - Collector&#x27;s Edition",
     "category": "coins",
     "files": {
-      "glb": "american-eagle-copper-round---1-oz-0999-fine-coppe.glb",
+      "glb": "coins/american-eagle-copper-round---1-oz-0999-fine-coppe.glb",
       "fbx": null
     },
     "size": {
@@ -238,7 +238,7 @@
     "name": "rockcloud Healing Crystal Natural Rose Quartz Heart Love Carved Palm Worry Stone Chakra Reiki Balanc",
     "category": "small-assets",
     "files": {
-      "glb": "rockcloud-healing-crystal-natural-rose-quartz-hear.glb",
+      "glb": "small-assets/rockcloud-healing-crystal-natural-rose-quartz-hear.glb",
       "fbx": null
     },
     "size": {
@@ -251,7 +251,7 @@
     "name": "Artistone 2 Inch Rainbow Fluorite Crystal Heart Healing Crystals Heart Stones Polished Pocket Love G",
     "category": "small-assets",
     "files": {
-      "glb": "artistone-2-inch-rainbow-fluorite-crystal-heart-he.glb",
+      "glb": "small-assets/artistone-2-inch-rainbow-fluorite-crystal-heart-he.glb",
       "fbx": null
     },
     "size": {
@@ -264,7 +264,7 @@
     "name": "Healing Crystal Heart Love Stones Tumbled Polished Cristales Natural Crystal - Heart Pink Quartz 1.9",
     "category": "small-assets",
     "files": {
-      "glb": "healing-crystal-heart-love-stones-tumbled-polished.glb",
+      "glb": "small-assets/healing-crystal-heart-love-stones-tumbled-polished.glb",
       "fbx": null
     },
     "size": {
@@ -277,7 +277,7 @@
     "name": "Ca D Oro Small Red Heart Glass Paperweight Hand Blown Murano-Style Art Glass",
     "category": "small-assets",
     "files": {
-      "glb": "ca-d-oro-small-red-heart-glass-paperweight-hand-bl.glb",
+      "glb": "small-assets/ca-d-oro-small-red-heart-glass-paperweight-hand-bl.glb",
       "fbx": null
     },
     "size": {
@@ -290,7 +290,7 @@
     "name": "Uncle Milton Moon in My Room - 12 Light-Up Lunar Phases, Remote Control or Automatic, STEM Toy, Grea",
     "category": "small-assets",
     "files": {
-      "glb": "uncle-milton-moon-in-my-room---12-light-up-lunar-p.glb",
+      "glb": "small-assets/uncle-milton-moon-in-my-room---12-light-up-lunar-p.glb",
       "fbx": null
     },
     "size": {
@@ -303,7 +303,7 @@
     "name": "A-Zoom 15116 9mm Luger Precision Snap Cap 5 Pack",
     "category": "ammo",
     "files": {
-      "glb": "a-zoom-15116-9mm-luger-precision-snap-cap-5-pack.glb",
+      "glb": "ammo/a-zoom-15116-9mm-luger-precision-snap-cap-5-pack.glb",
       "fbx": null
     },
     "size": {
@@ -316,20 +316,7 @@
     "name": "Initial Bomb Grenade Green Paperweight Humor Decor with Ball Paperweight Functional and Stylish Offi",
     "category": "ammo",
     "files": {
-      "glb": "initial-bomb-grenade-green-paperweight-humor-decor.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.7 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "b5371ab9-655e-4cf2-b0ee-ccb30178c6b9",
-    "name": "b5371ab9-655e-4cf2-b0ee-ccb30178c6b9",
-    "category": "ammo",
-    "files": {
-      "glb": "b5371ab9-655e-4cf2-b0ee-ccb30178c6b9.glb",
+      "glb": "ammo/initial-bomb-grenade-green-paperweight-humor-decor.glb",
       "fbx": null
     },
     "size": {
@@ -342,7 +329,7 @@
     "name": "Realistic Fake Bomb Prop Toy for Film Props, Fake Dynamite Toy Stick Bomb for Gifts Pranks-Pretend E",
     "category": "ammo",
     "files": {
-      "glb": "realistic-fake-bomb-prop-toy-for-film-props-fake-d.glb",
+      "glb": "ammo/realistic-fake-bomb-prop-toy-for-film-props-fake-d.glb",
       "fbx": null
     },
     "size": {
@@ -355,7 +342,7 @@
     "name": "Clear Glass Crystal Heart Prism Pendant Suncatcher 2 inches",
     "category": "small-assets",
     "files": {
-      "glb": "clear-glass-crystal-heart-prism-pendant-suncatcher.glb",
+      "glb": "small-assets/clear-glass-crystal-heart-prism-pendant-suncatcher.glb",
       "fbx": null
     },
     "size": {
@@ -368,7 +355,7 @@
     "name": "SOACH Resin Skull, 1:1 Human Skull, Human Head Model for Home Decoration, Halloween Statue, Bone Mod",
     "category": "small-assets",
     "files": {
-      "glb": "soach-resin-skull-11-human-skull-human-head-model-.glb",
+      "glb": "small-assets/soach-resin-skull-11-human-skull-human-head-model-.glb",
       "fbx": null
     },
     "size": {
@@ -381,8 +368,8 @@
     "name": "Pork Shoulder Butt Roast Boneless Organic Step 1",
     "category": "rigged",
     "files": {
-      "glb": "pork-shoulder-butt-roast-boneless-organic-step-1.glb",
-      "fbx": "pork-shoulder-butt-roast-boneless-organic-step-1.fbx"
+      "glb": "rigged/pork-shoulder-butt-roast-boneless-organic-step-1.glb",
+      "fbx": "rigged/pork-shoulder-butt-roast-boneless-organic-step-1.fbx"
     },
     "size": {
       "glb": "2.1 MB",
@@ -394,8 +381,8 @@
     "name": "Pomegranate",
     "category": "rigged",
     "files": {
-      "glb": "pomegranate.glb",
-      "fbx": "pomegranate.fbx"
+      "glb": "rigged/pomegranate.glb",
+      "fbx": "rigged/pomegranate.fbx"
     },
     "size": {
       "glb": "1.9 MB",
@@ -403,25 +390,12 @@
     }
   },
   {
-    "id": "06b5232d-2048-4969-96af-377a187395ab",
-    "name": "06b5232d-2048-4969-96af-377a187395ab",
-    "category": "rigged",
-    "files": {
-      "glb": "06b5232d-2048-4969-96af-377a187395ab.glb",
-      "fbx": "06b5232d-2048-4969-96af-377a187395ab.fbx"
-    },
-    "size": {
-      "glb": "237.1 KB",
-      "fbx": "216.3 KB"
-    }
-  },
-  {
     "id": "whole-foods-market-berry-chantilly-cake-6-inch",
     "name": "WHOLE FOODS MARKET Berry Chantilly Cake 6 Inch",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-berry-chantilly-cake-6-inch.glb",
-      "fbx": "whole-foods-market-berry-chantilly-cake-6-inch.fbx"
+      "glb": "rigged/whole-foods-market-berry-chantilly-cake-6-inch.glb",
+      "fbx": "rigged/whole-foods-market-berry-chantilly-cake-6-inch.fbx"
     },
     "size": {
       "glb": "2.1 MB",
@@ -433,8 +407,8 @@
     "name": "WHOLE FOODS MARKET Fruit Topped Cheesecake 6 Inch",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-fruit-topped-cheesecake-6-inch.glb",
-      "fbx": "whole-foods-market-fruit-topped-cheesecake-6-inch.fbx"
+      "glb": "rigged/whole-foods-market-fruit-topped-cheesecake-6-inch.glb",
+      "fbx": "rigged/whole-foods-market-fruit-topped-cheesecake-6-inch.fbx"
     },
     "size": {
       "glb": "1.7 MB",
@@ -446,8 +420,8 @@
     "name": "Boneless Pork Loin Chops",
     "category": "rigged",
     "files": {
-      "glb": "boneless-pork-loin-chops.glb",
-      "fbx": "boneless-pork-loin-chops.fbx"
+      "glb": "rigged/boneless-pork-loin-chops.glb",
+      "fbx": "rigged/boneless-pork-loin-chops.fbx"
     },
     "size": {
       "glb": "2.3 MB",
@@ -459,8 +433,8 @@
     "name": "OSULLOC Premium Green Tea Waffles (2.54oz, 72g) | Korean Matcha Flavored Snacks | Asian Snacks, Prem",
     "category": "rigged",
     "files": {
-      "glb": "osulloc-premium-green-tea-waffles-254oz-72g-korean.glb",
-      "fbx": "osulloc-premium-green-tea-waffles-254oz-72g-korean.fbx"
+      "glb": "rigged/osulloc-premium-green-tea-waffles-254oz-72g-korean.glb",
+      "fbx": "rigged/osulloc-premium-green-tea-waffles-254oz-72g-korean.fbx"
     },
     "size": {
       "glb": "2.2 MB",
@@ -468,25 +442,12 @@
     }
   },
   {
-    "id": "2751355f-5b40-4328-a461-e2c77eb7dc68",
-    "name": "2751355f-5b40-4328-a461-e2c77eb7dc68",
-    "category": "rigged",
-    "files": {
-      "glb": "2751355f-5b40-4328-a461-e2c77eb7dc68.glb",
-      "fbx": "2751355f-5b40-4328-a461-e2c77eb7dc68.fbx"
-    },
-    "size": {
-      "glb": "296.5 KB",
-      "fbx": "203.4 KB"
-    }
-  },
-  {
     "id": "honeydew-melon-1-each",
     "name": "Honeydew Melon, 1 Each",
     "category": "rigged",
     "files": {
-      "glb": "honeydew-melon-1-each.glb",
-      "fbx": "honeydew-melon-1-each.fbx"
+      "glb": "rigged/honeydew-melon-1-each.glb",
+      "fbx": "rigged/honeydew-melon-1-each.fbx"
     },
     "size": {
       "glb": "1.9 MB",
@@ -498,8 +459,8 @@
     "name": "Pringles Potato Crisps Chips, Lunch Snacks, On-The-Go Snacks, Ranch, 5.5oz Can (1 Can)",
     "category": "rigged",
     "files": {
-      "glb": "pringles-potato-crisps-chips-lunch-snacks-on-the-g.glb",
-      "fbx": "pringles-potato-crisps-chips-lunch-snacks-on-the-g.fbx"
+      "glb": "rigged/pringles-potato-crisps-chips-lunch-snacks-on-the-g.glb",
+      "fbx": "rigged/pringles-potato-crisps-chips-lunch-snacks-on-the-g.fbx"
     },
     "size": {
       "glb": "159.5 KB",
@@ -511,8 +472,8 @@
     "name": "Mini Seedless Watermelon, 1 Each",
     "category": "rigged",
     "files": {
-      "glb": "mini-seedless-watermelon-1-each.glb",
-      "fbx": "mini-seedless-watermelon-1-each.fbx"
+      "glb": "rigged/mini-seedless-watermelon-1-each.glb",
+      "fbx": "rigged/mini-seedless-watermelon-1-each.fbx"
     },
     "size": {
       "glb": "2.1 MB",
@@ -524,8 +485,8 @@
     "name": "The Save Mart Company, Pork Butt Roast",
     "category": "rigged",
     "files": {
-      "glb": "the-save-mart-company-pork-butt-roast.glb",
-      "fbx": "the-save-mart-company-pork-butt-roast.fbx"
+      "glb": "rigged/the-save-mart-company-pork-butt-roast.glb",
+      "fbx": "rigged/the-save-mart-company-pork-butt-roast.fbx"
     },
     "size": {
       "glb": "82.2 KB",
@@ -537,8 +498,8 @@
     "name": "Organic Honeycrisp Apple",
     "category": "rigged",
     "files": {
-      "glb": "organic-honeycrisp-apple.glb",
-      "fbx": "organic-honeycrisp-apple.fbx"
+      "glb": "rigged/organic-honeycrisp-apple.glb",
+      "fbx": "rigged/organic-honeycrisp-apple.fbx"
     },
     "size": {
       "glb": "1.7 MB",
@@ -550,8 +511,8 @@
     "name": "Lotte Binch - Europe Inspired Half Chocolate Half Cracker Premium Biscuits 204g",
     "category": "rigged",
     "files": {
-      "glb": "lotte-binch---europe-inspired-half-chocolate-half-.glb",
-      "fbx": "lotte-binch---europe-inspired-half-chocolate-half-.fbx"
+      "glb": "rigged/lotte-binch---europe-inspired-half-chocolate-half-.glb",
+      "fbx": "rigged/lotte-binch---europe-inspired-half-chocolate-half-.fbx"
     },
     "size": {
       "glb": "491.1 KB",
@@ -563,8 +524,8 @@
     "name": "Teriyaki Atlantic Salmon",
     "category": "rigged",
     "files": {
-      "glb": "teriyaki-atlantic-salmon.glb",
-      "fbx": "teriyaki-atlantic-salmon.fbx"
+      "glb": "rigged/teriyaki-atlantic-salmon.glb",
+      "fbx": "rigged/teriyaki-atlantic-salmon.fbx"
     },
     "size": {
       "glb": "2.2 MB",
@@ -576,8 +537,8 @@
     "name": "Our Specialty 8&quot; Single Layer Cookies N Cream Cake, Frozen, 18.5 Oz",
     "category": "rigged",
     "files": {
-      "glb": "our-specialty-8quot-single-layer-cookies-n-cream-c.glb",
-      "fbx": "our-specialty-8quot-single-layer-cookies-n-cream-c.fbx"
+      "glb": "rigged/our-specialty-8quot-single-layer-cookies-n-cream-c.glb",
+      "fbx": "rigged/our-specialty-8quot-single-layer-cookies-n-cream-c.fbx"
     },
     "size": {
       "glb": "2.2 MB",
@@ -589,8 +550,8 @@
     "name": "Large Organic Hass Avocado USDA Organic",
     "category": "rigged",
     "files": {
-      "glb": "large-organic-hass-avocado-usda-organic.glb",
-      "fbx": "large-organic-hass-avocado-usda-organic.fbx"
+      "glb": "rigged/large-organic-hass-avocado-usda-organic.glb",
+      "fbx": "rigged/large-organic-hass-avocado-usda-organic.fbx"
     },
     "size": {
       "glb": "1.9 MB",
@@ -602,8 +563,8 @@
     "name": "Whole Foods Market, Cake Shortcake Strawberry 8 Inch, 47 Ounce",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-cake-shortcake-strawberry-8-inc.glb",
-      "fbx": "whole-foods-market-cake-shortcake-strawberry-8-inc.fbx"
+      "glb": "rigged/whole-foods-market-cake-shortcake-strawberry-8-inc.glb",
+      "fbx": "rigged/whole-foods-market-cake-shortcake-strawberry-8-inc.fbx"
     },
     "size": {
       "glb": "2.3 MB",
@@ -615,8 +576,8 @@
     "name": "Whole Foods Market, Salmon Grilled Paleo Fresh Pack",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-salmon-grilled-paleo-fresh-pack.glb",
-      "fbx": "whole-foods-market-salmon-grilled-paleo-fresh-pack.fbx"
+      "glb": "rigged/whole-foods-market-salmon-grilled-paleo-fresh-pack.glb",
+      "fbx": "rigged/whole-foods-market-salmon-grilled-paleo-fresh-pack.fbx"
     },
     "size": {
       "glb": "1.9 MB",
@@ -628,8 +589,8 @@
     "name": "Sweet Young Coconut, 1 Each",
     "category": "rigged",
     "files": {
-      "glb": "sweet-young-coconut-1-each.glb",
-      "fbx": "sweet-young-coconut-1-each.fbx"
+      "glb": "rigged/sweet-young-coconut-1-each.glb",
+      "fbx": "rigged/sweet-young-coconut-1-each.fbx"
     },
     "size": {
       "glb": "1.6 MB",
@@ -641,8 +602,8 @@
     "name": "Large Mango, 1 Each",
     "category": "rigged",
     "files": {
-      "glb": "large-mango-1-each.glb",
-      "fbx": "large-mango-1-each.fbx"
+      "glb": "rigged/large-mango-1-each.glb",
+      "fbx": "rigged/large-mango-1-each.fbx"
     },
     "size": {
       "glb": "1.9 MB",
@@ -654,8 +615,8 @@
     "name": "Lotte Sasha Matcha Chocolate Snack 69g (Pack of 2), Japanese Matcha Sweets made of Stone-Ground Uji ",
     "category": "rigged",
     "files": {
-      "glb": "lotte-sasha-matcha-chocolate-snack-69g-pack-of-2-j.glb",
-      "fbx": "lotte-sasha-matcha-chocolate-snack-69g-pack-of-2-j.fbx"
+      "glb": "rigged/lotte-sasha-matcha-chocolate-snack-69g-pack-of-2-j.glb",
+      "fbx": "rigged/lotte-sasha-matcha-chocolate-snack-69g-pack-of-2-j.fbx"
     },
     "size": {
       "glb": "400.7 KB",
@@ -667,8 +628,8 @@
     "name": "Medium Hass Avocado",
     "category": "rigged",
     "files": {
-      "glb": "medium-hass-avocado.glb",
-      "fbx": "medium-hass-avocado.fbx"
+      "glb": "rigged/medium-hass-avocado.glb",
+      "fbx": "rigged/medium-hass-avocado.fbx"
     },
     "size": {
       "glb": "1.8 MB",
@@ -680,8 +641,8 @@
     "name": "Pringles Hot Ones Los Calientes Potato Crisps Chips, Barbacoa, Spicy Snacks, Hot Sauce Inspired, 5.5",
     "category": "rigged",
     "files": {
-      "glb": "pringles-hot-ones-los-calientes-potato-crisps-chip.glb",
-      "fbx": "pringles-hot-ones-los-calientes-potato-crisps-chip.fbx"
+      "glb": "rigged/pringles-hot-ones-los-calientes-potato-crisps-chip.glb",
+      "fbx": "rigged/pringles-hot-ones-los-calientes-potato-crisps-chip.fbx"
     },
     "size": {
       "glb": "179.8 KB",
@@ -693,8 +654,8 @@
     "name": "Atlantic Salmon Fillet",
     "category": "rigged",
     "files": {
-      "glb": "atlantic-salmon-fillet.glb",
-      "fbx": "atlantic-salmon-fillet.fbx"
+      "glb": "rigged/atlantic-salmon-fillet.glb",
+      "fbx": "rigged/atlantic-salmon-fillet.fbx"
     },
     "size": {
       "glb": "1.8 MB",
@@ -702,25 +663,12 @@
     }
   },
   {
-    "id": "b03fba0d-4f47-483a-8aed-6c1fca5f7bf7",
-    "name": "b03fba0d-4f47-483a-8aed-6c1fca5f7bf7",
-    "category": "rigged",
-    "files": {
-      "glb": "b03fba0d-4f47-483a-8aed-6c1fca5f7bf7.glb",
-      "fbx": "b03fba0d-4f47-483a-8aed-6c1fca5f7bf7.fbx"
-    },
-    "size": {
-      "glb": "98.2 KB",
-      "fbx": "138.9 KB"
-    }
-  },
-  {
     "id": "mandarin-oranges-3-lb-bag",
     "name": "Mandarin Oranges, 3 Lb Bag",
     "category": "rigged",
     "files": {
-      "glb": "mandarin-oranges-3-lb-bag.glb",
-      "fbx": "mandarin-oranges-3-lb-bag.fbx"
+      "glb": "rigged/mandarin-oranges-3-lb-bag.glb",
+      "fbx": "rigged/mandarin-oranges-3-lb-bag.fbx"
     },
     "size": {
       "glb": "2.0 MB",
@@ -732,8 +680,8 @@
     "name": "Dubai Chocolate Bar Pistachio – 3.5 oz Dessert with Pistachio Cream &amp; Kataifi Filling | Gourmet ",
     "category": "rigged",
     "files": {
-      "glb": "dubai-chocolate-bar-pistachio-35-oz-dessert-with-p.glb",
-      "fbx": "dubai-chocolate-bar-pistachio-35-oz-dessert-with-p.fbx"
+      "glb": "rigged/dubai-chocolate-bar-pistachio-35-oz-dessert-with-p.glb",
+      "fbx": "rigged/dubai-chocolate-bar-pistachio-35-oz-dessert-with-p.fbx"
     },
     "size": {
       "glb": "2.4 MB",
@@ -745,8 +693,8 @@
     "name": "Center Cut Atlantic Salmon Portion",
     "category": "rigged",
     "files": {
-      "glb": "center-cut-atlantic-salmon-portion.glb",
-      "fbx": "center-cut-atlantic-salmon-portion.fbx"
+      "glb": "rigged/center-cut-atlantic-salmon-portion.glb",
+      "fbx": "rigged/center-cut-atlantic-salmon-portion.fbx"
     },
     "size": {
       "glb": "1.4 MB",
@@ -758,8 +706,8 @@
     "name": "Whole Foods Market Seasonal Berry Chantilly Cake 6in",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-seasonal-berry-chantilly-cake-6.glb",
-      "fbx": "whole-foods-market-seasonal-berry-chantilly-cake-6.fbx"
+      "glb": "rigged/whole-foods-market-seasonal-berry-chantilly-cake-6.glb",
+      "fbx": "rigged/whole-foods-market-seasonal-berry-chantilly-cake-6.fbx"
     },
     "size": {
       "glb": "2.1 MB",
@@ -771,8 +719,8 @@
     "name": "Dragon Fruit, 1 Each",
     "category": "rigged",
     "files": {
-      "glb": "dragon-fruit-1-each.glb",
-      "fbx": "dragon-fruit-1-each.fbx"
+      "glb": "rigged/dragon-fruit-1-each.glb",
+      "fbx": "rigged/dragon-fruit-1-each.fbx"
     },
     "size": {
       "glb": "2.0 MB",
@@ -784,8 +732,8 @@
     "name": "Whole Foods Market Organic Classic Rotisserie Chicken (Cold)",
     "category": "rigged",
     "files": {
-      "glb": "whole-foods-market-organic-classic-rotisserie-chic.glb",
-      "fbx": "whole-foods-market-organic-classic-rotisserie-chic.fbx"
+      "glb": "rigged/whole-foods-market-organic-classic-rotisserie-chic.glb",
+      "fbx": "rigged/whole-foods-market-organic-classic-rotisserie-chic.fbx"
     },
     "size": {
       "glb": "2.2 MB",
@@ -797,8 +745,8 @@
     "name": "Lotus Biscoff Cookies- Caramelized Biscuit Cookies - 13.23 Ounce – non GMO Project Verified + Vegan",
     "category": "rigged",
     "files": {
-      "glb": "lotus-biscoff-cookies--caramelized-biscuit-cookies.glb",
-      "fbx": "lotus-biscoff-cookies--caramelized-biscuit-cookies.fbx"
+      "glb": "rigged/lotus-biscoff-cookies--caramelized-biscuit-cookies.glb",
+      "fbx": "rigged/lotus-biscoff-cookies--caramelized-biscuit-cookies.fbx"
     },
     "size": {
       "glb": "393.0 KB",
@@ -810,8 +758,8 @@
     "name": "Lotte Zero Mild Chocolate Sugar Free Chocolate Sweets Snack from Japan 50g (Pack of 10), Value Pack,",
     "category": "rigged",
     "files": {
-      "glb": "lotte-zero-mild-chocolate-sugar-free-chocolate-swe.glb",
-      "fbx": "lotte-zero-mild-chocolate-sugar-free-chocolate-swe.fbx"
+      "glb": "rigged/lotte-zero-mild-chocolate-sugar-free-chocolate-swe.glb",
+      "fbx": "rigged/lotte-zero-mild-chocolate-sugar-free-chocolate-swe.fbx"
     },
     "size": {
       "glb": "396.4 KB",
@@ -823,8 +771,8 @@
     "name": "Passion Fruit",
     "category": "rigged",
     "files": {
-      "glb": "passion-fruit.glb",
-      "fbx": "passion-fruit.fbx"
+      "glb": "rigged/passion-fruit.glb",
+      "fbx": "rigged/passion-fruit.fbx"
     },
     "size": {
       "glb": "2.0 MB",
@@ -836,8 +784,8 @@
     "name": "Pork Loin Chop Bone-In Step 1",
     "category": "rigged",
     "files": {
-      "glb": "pork-loin-chop-bone-in-step-1.glb",
-      "fbx": "pork-loin-chop-bone-in-step-1.fbx"
+      "glb": "rigged/pork-loin-chop-bone-in-step-1.glb",
+      "fbx": "rigged/pork-loin-chop-bone-in-step-1.fbx"
     },
     "size": {
       "glb": "2.3 MB",
@@ -849,8 +797,8 @@
     "name": "Banana Bunch (4-5 Count)",
     "category": "rigged",
     "files": {
-      "glb": "banana-bunch-4-5-count.glb",
-      "fbx": "banana-bunch-4-5-count.fbx"
+      "glb": "rigged/banana-bunch-4-5-count.glb",
+      "fbx": "rigged/banana-bunch-4-5-count.fbx"
     },
     "size": {
       "glb": "1.8 MB",
@@ -862,7 +810,7 @@
     "name": "BARBEE Dubai Chocolates with Handmade Belgian Chocolate – Pistachio Milk Chocolate Flavour With Crea",
     "category": "food",
     "files": {
-      "glb": "barbee-dubai-chocolates-with-handmade-belgian-choc.glb",
+      "glb": "food/barbee-dubai-chocolates-with-handmade-belgian-choc.glb",
       "fbx": null
     },
     "size": {
@@ -875,258 +823,11 @@
     "name": "Gold Pineapple, 1 Each",
     "category": "food",
     "files": {
-      "glb": "gold-pineapple-1-each.glb",
+      "glb": "food/gold-pineapple-1-each.glb",
       "fbx": null
     },
     "size": {
       "glb": "2.0 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "0234c288-805e-4c6c-a8ba-18c4c48a2291",
-    "name": "0234c288-805e-4c6c-a8ba-18c4c48a2291",
-    "category": "weapons",
-    "files": {
-      "glb": "0234c288-805e-4c6c-a8ba-18c4c48a2291.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "141a963a-2fb7-4c3f-a576-5fd99ded0b3d",
-    "name": "141a963a-2fb7-4c3f-a576-5fd99ded0b3d",
-    "category": "weapons",
-    "files": {
-      "glb": "141a963a-2fb7-4c3f-a576-5fd99ded0b3d.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "2.1 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "184387be-c768-44fe-bfa6-3211f4293669",
-    "name": "184387be-c768-44fe-bfa6-3211f4293669",
-    "category": "weapons",
-    "files": {
-      "glb": "184387be-c768-44fe-bfa6-3211f4293669.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "2.0 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "2ca66581-0283-43c5-840a-d48d399173f5",
-    "name": "2ca66581-0283-43c5-840a-d48d399173f5",
-    "category": "weapons",
-    "files": {
-      "glb": "2ca66581-0283-43c5-840a-d48d399173f5.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.7 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "3bb17acc-a5af-4866-9cbb-9c5ba5004378",
-    "name": "3bb17acc-a5af-4866-9cbb-9c5ba5004378",
-    "category": "weapons",
-    "files": {
-      "glb": "3bb17acc-a5af-4866-9cbb-9c5ba5004378.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "4f5394af-1a52-4764-a5e8-037f72f640fe",
-    "name": "4f5394af-1a52-4764-a5e8-037f72f640fe",
-    "category": "weapons",
-    "files": {
-      "glb": "4f5394af-1a52-4764-a5e8-037f72f640fe.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.5 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "4ffebcdb-d111-4ed2-8ac4-25049d18f86e",
-    "name": "4ffebcdb-d111-4ed2-8ac4-25049d18f86e",
-    "category": "weapons",
-    "files": {
-      "glb": "4ffebcdb-d111-4ed2-8ac4-25049d18f86e.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.7 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "56b116ba-3d39-454e-9bb6-8cf2f069e799",
-    "name": "56b116ba-3d39-454e-9bb6-8cf2f069e799",
-    "category": "weapons",
-    "files": {
-      "glb": "56b116ba-3d39-454e-9bb6-8cf2f069e799.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.3 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "6af22608-470b-40e2-8a96-725c471b090c",
-    "name": "6af22608-470b-40e2-8a96-725c471b090c",
-    "category": "weapons",
-    "files": {
-      "glb": "6af22608-470b-40e2-8a96-725c471b090c.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "6da377da-920e-46b8-b3df-6e1cb8fcd2c6",
-    "name": "6da377da-920e-46b8-b3df-6e1cb8fcd2c6",
-    "category": "weapons",
-    "files": {
-      "glb": "6da377da-920e-46b8-b3df-6e1cb8fcd2c6.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.6 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "84d5791e-f538-4a31-9fed-6767e90fba4d",
-    "name": "84d5791e-f538-4a31-9fed-6767e90fba4d",
-    "category": "weapons",
-    "files": {
-      "glb": "84d5791e-f538-4a31-9fed-6767e90fba4d.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.6 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "b0c7d0ae-c42a-4cca-bb3c-81619bcca0b8",
-    "name": "b0c7d0ae-c42a-4cca-bb3c-81619bcca0b8",
-    "category": "weapons",
-    "files": {
-      "glb": "b0c7d0ae-c42a-4cca-bb3c-81619bcca0b8.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "c6fc165c-ad78-4d14-ad32-5b062cd73a3d",
-    "name": "c6fc165c-ad78-4d14-ad32-5b062cd73a3d",
-    "category": "weapons",
-    "files": {
-      "glb": "c6fc165c-ad78-4d14-ad32-5b062cd73a3d.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.7 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "cd2f7b68-6ad6-4a87-9b18-53171571c350",
-    "name": "cd2f7b68-6ad6-4a87-9b18-53171571c350",
-    "category": "weapons",
-    "files": {
-      "glb": "cd2f7b68-6ad6-4a87-9b18-53171571c350.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "2.0 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "d1b4faff-2e0b-44e9-8fdf-e503d5db3ca2",
-    "name": "d1b4faff-2e0b-44e9-8fdf-e503d5db3ca2",
-    "category": "weapons",
-    "files": {
-      "glb": "d1b4faff-2e0b-44e9-8fdf-e503d5db3ca2.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "2.0 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "d965c387-78cf-439c-a5d5-df7faa9a6a60",
-    "name": "d965c387-78cf-439c-a5d5-df7faa9a6a60",
-    "category": "weapons",
-    "files": {
-      "glb": "d965c387-78cf-439c-a5d5-df7faa9a6a60.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "2.0 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "f63bd8b0-62b8-4e5c-ae96-0be7632febeb",
-    "name": "f63bd8b0-62b8-4e5c-ae96-0be7632febeb",
-    "category": "weapons",
-    "files": {
-      "glb": "f63bd8b0-62b8-4e5c-ae96-0be7632febeb.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "f72ec5ee-89e8-47f5-a48c-5e04bdcafb62",
-    "name": "f72ec5ee-89e8-47f5-a48c-5e04bdcafb62",
-    "category": "weapons",
-    "files": {
-      "glb": "f72ec5ee-89e8-47f5-a48c-5e04bdcafb62.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.7 MB",
-      "fbx": null
-    }
-  },
-  {
-    "id": "test-model-debug",
-    "name": "Test Model",
-    "category": "props",
-    "files": {
-      "glb": "test-model-debug.glb",
-      "fbx": null
-    },
-    "size": {
-      "glb": "1.9 MB",
       "fbx": null
     }
   }
