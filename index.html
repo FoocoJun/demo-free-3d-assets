@@ -72,7 +72,7 @@
       const filtered = activeCategory === 'all' ? catalog : catalog.filter(m => m.category === activeCategory);
       const html = filtered.map(m => `
         <div class="card">
-          <model-viewer src="${RELEASE_BASE}/${m.files.glb}" camera-controls auto-rotate></model-viewer>
+          <model-viewer src="./${m.files.glb}" camera-controls auto-rotate></model-viewer>
           <div class="card-info">
             <div class="card-title" title="${m.name}">${m.name}</div>
             <div class="card-meta">${m.category} · ${m.size.glb}${m.files.fbx ? ' · FBX' : ''}</div>
